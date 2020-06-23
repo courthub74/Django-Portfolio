@@ -1,11 +1,11 @@
 #FOLDERS
-/[Ii]mages/
-/[St]atic/
+# /[Ii]mages/
+# /[St]atic/
 
 #EXTENSIONS
-*.js
-*.css
-*.svg
+# *.js
+# *.css
+# *.svg
 
 #VIRTUAL ENVIRONMENT
 venv
