@@ -1,0 +1,10 @@
+#FOLDERS
+/[Ii]mages/
+
+#EXTENSIONS
+*.js
+*.css
+*.svg
+
+#VIRTUAL ENVIRONMENT
+venv
